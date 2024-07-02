@@ -4,4 +4,4 @@ In a typical development environment, dev and test databases are mostly utilised
 # Steps to do this
 - Create Lambda Function With Nodejs 18 version
 - Use AWS-SDK package as a layers features to support this lambda function code
- Configure Lambda Environment Varialbes for DB_CLUSTER_IDENTIFIER = your rds identifier name
+- Configure Lambda Environment Varialbes for DB_CLUSTER_IDENTIFIER = your rds identifier name
